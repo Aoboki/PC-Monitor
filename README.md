@@ -1,6 +1,8 @@
 # PC Monitor
 
-Lightweight hardware monitoring application for Windows.
+## Screenshot
+
+![PC Monitor](screenshots/main.png)
 
 ## Features
 
