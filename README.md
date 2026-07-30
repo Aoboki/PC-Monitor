@@ -1,5 +1,15 @@
 # PC Monitor
 
+Lightweight hardware monitoring application for Windows.
+
+## Features
+
+- ✔ CPU Package Temperature
+- ✔ CPU Core Temperatures
+- ✔ GPU Temperature
+- ✔ GPU Hot Spot
+- ✔ Modern CustomTkinter GUI
+
 A lightweight Windows hardware monitoring application written in Python using LibreHardwareMonitor.
 
 ## Features
